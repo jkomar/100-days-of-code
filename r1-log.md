@@ -1,6 +1,6 @@
-## Log of Round 1 of #100DaysOfCode
+## Log of Round 1 of #100DaysOfCode - Jason Komar
 
-The log of my #100DaysOfCode challenge. Started on [Friday, September 18, 2020].
+The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 
 ## Log
 
