@@ -7,7 +7,7 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## If you've decided to join:
+## Steps to join the challenge:
 
 0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
     Also, [here](https://join.slack.com/t/100xcode/shared_invite/zt-gaxsv2fp-N8ORl8wxsOF3rHaXgavMLA) is a invite link to the 100DaysOfCode Slack channel
