@@ -14,8 +14,16 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 
 ### R1D2 - Saturday, September 19, 2020
 
+**Today's Progress**: Worked on CSS for my Survey Form Project for freeCodeCamp.
+
+**Thoughts:** It's coming together. Coming up with a plain CSS layout from scratch is more difficult than I thought though. I'm determined to stick with it and get proficient with CSS.
+
+**Link to work:** https://codepen.io/RedTrain/full/GRZEVqZ
+
+### R1D3 - Sunday, September 20, 2020
+
 **Today's Progress**: 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** 
