@@ -22,6 +22,22 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 
 ### R1D3 - Sunday, September 20, 2020
 
+**Today's Progress**: By the time I got home from camping I had to go help a friend fix something on his trailer, so I didn't get much done on my second freeCodeCamp Responsive Web Design project.
+
+**Thoughts:** I was frustrated that I didn't get more time to work on things today.
+
+**Link to work:** https://codepen.io/RedTrain/full/GRZEVqZ
+
+### R1D4 - Monday, September 21, 2020
+
+**Today's Progress**: Since I didn't get much time to work on things yesterday, I worked on my second Responsive Web Design Project until it was finished.
+
+**Thoughts:** The styling isn't fancy, but I was going for a minimalist design trying to make it look like the freeCodeCamp.org site. The Survey Form project that I chose to do was a form for freeCodeCamp alumni, so I wanted the form to match the rest of the site. I ran into a few little styling issues and overcame them by looking at the example project and researching the functionality of some of the CSS selectors that I wasn't familiar with. Overall I am happy with how it came out. I feel like I made quite a bit of improvement on my CSS knowledge during this project, but I would like to get much more proficient.
+
+**Link to work:** https://codepen.io/RedTrain/full/GRZEVqZ
+
+### R1D5 - Tuesday, September 22, 2020
+
 **Today's Progress**: 
 
 **Thoughts:** 
