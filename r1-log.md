@@ -46,11 +46,11 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 
 ### R1D6 - Wednesday, September 23, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Continued working my way through @KevinJPowell's "Conquering Responsive Layouts" 21 day CSS course to supplement what I have learned at freeCodeCamp.
 
-**Thoughts:** 
+**Thoughts:** I didn't work on things for a full hour which is a bit dissapointing. Hopefully tomorrow will be better.
 
-**Link to work:** 
+**Link to work:** https://courses.kevinpowell.co/courses/conquering-responsive-layouts
 
 ### R1D7 - Thursday, September 24, 2020
 
@@ -59,3 +59,12 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 **Thoughts:** 
 
 **Link to work:** 
+
+### R1D8 - Friday, September 25, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
