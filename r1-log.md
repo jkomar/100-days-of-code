@@ -54,17 +54,40 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 
 ### R1D7 - Thursday, September 24, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Took the day off today. Work was too busy and by the time I got home I was exhausted.
 
-**Thoughts:** 
+**Thoughts:** I really didn't want to miss any days and as dissapointing as it is I won't let it get me down.
 
-**Link to work:** 
+**Link to work:** none.
 
 ### R1D8 - Friday, September 25, 2020
 
+**Today's Progress**: Today I didn't actually do any coding. I did some reading on setting up VS Code for increased productivity and did some research on whether to use Windows, MacOS or Linux for the best coding environment. In the future, I think I will replace my Windows laptop with something running POP_OS, maybe even a machine from System76.
+
+**Thoughts:** I think I went down a bit of a rabbit hole, but I know what I want as far as a future dev laptop goes.
+
+**Link to work:** https://www.freecodecamp.org/news/learn-visual-studio-code-to-increase-productivity/ and https://system76.com/
+
+### R1D9 - Saturday, September 26, 2020
+
 **Today's Progress**: 
 
 **Thoughts:** 
 
 **Link to work:** 
 
+### R1D10 - Sunday, September 27, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D11 - Monday, September 28, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
