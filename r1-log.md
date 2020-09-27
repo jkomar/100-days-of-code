@@ -70,11 +70,11 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 
 ### R1D9 - Saturday, September 26, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Reviewed relative units (REMs and EMs) and best practices of where to use each.
 
-**Thoughts:** 
+**Thoughts:** I think this one is sticking with me now and it provides exceptional value for creating clean, responsive design.
 
-**Link to work:** 
+**Link to work:** https://www.youtube.com/watch?v=_-aDOAMmDHI
 
 ### R1D10 - Sunday, September 27, 2020
 
