@@ -91,3 +91,11 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 **Thoughts:** 
 
 **Link to work:** 
+
+### R1D12 - Tuesday, September 29, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
