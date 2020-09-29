@@ -78,11 +78,11 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 
 ### R1D10 - Sunday, September 27, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Went over CSS max-width.
 
 **Thoughts:** 
 
-**Link to work:** 
+**Link to work:** https://courses.kevinpowell.co/courses/conquering-responsive-layouts
 
 ### R1D11 - Monday, September 28, 2020
 
