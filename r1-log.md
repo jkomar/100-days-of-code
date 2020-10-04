@@ -94,13 +94,21 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 
 ### R1D16 - Saturday, October 3, 2020
 
-**Today's Progress**: Working on Conquering Responsive Layouts course. Doing more than one day's lesson trying to catch up what I should have done throughout the week. Went over CSS max-width, CSS viewport units: vh, vw, vmax, vmin.
+**Today's Progress**: Working on Conquering Responsive Layouts course. Doing more than one day's lesson trying to catch up what I should have done throughout the week. Went over CSS max-width, CSS viewport units: vh, vw, vmax, vmin. Worked on product pages on my ecommerce site.
 
 **Thoughts:** I am really enjoying learning and working with CSS. I feel like the concepts are clicking.
 
 **Link to work:** https://courses.kevinpowell.co/courses/conquering-responsive-layouts
 
 ### R1D17 - Sunday, October 4, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### R1D18 - Monday, October 5, 2020
 
 **Today's Progress**: 
 
