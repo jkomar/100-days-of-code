@@ -102,13 +102,21 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 
 ### R1D17 - Sunday, October 4, 2020
 
+**Today's Progress**: Worked on creating a responsive layout based on a provided Figma layout.
+
+**Thoughts:** Creating the HTML and CSS from scratch was good for cementing concepts.
+
+**Link to work:** Local file on my laptop.
+
+### R1D18 - Monday, October 5, 2020
+
 **Today's Progress**: 
 
 **Thoughts:** 
 
 **Link to work:** 
 
-### R1D18 - Monday, October 5, 2020
+### R1D19 - Tuesday, October 6, 2020
 
 **Today's Progress**: 
 
