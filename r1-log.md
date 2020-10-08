@@ -126,6 +126,14 @@ The log of my #100DaysOfCode challenge. Started on Friday, September 18, 2020.
 
 ### R1D20 - Wednesday, October 7, 2020
 
+**Today's Progress**: Continued to work on my ecommerce site.
+
+**Thoughts:** Would like to do some learning as well, but I need to get this site optimized.
+
+**Link to work:** ---
+
+### R1D21 - Thurssday, October 8, 2020
+
 **Today's Progress**: 
 
 **Thoughts:** 
